@@ -1,0 +1,9 @@
+/* DataGridTable.css */
+
+.MuiDataGrid-root {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  input[type="text"] {
+    font-size: 14px;
+  }
